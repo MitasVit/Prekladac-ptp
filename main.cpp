@@ -102,5 +102,5 @@ void AppInfo(){
 cout << "\nO aplikaci:\n" << "Nazev: Prekladac PTP\n" << "Autor: Mitas Vit\n" << "Konstakt: mitas.vit@gmail.com\n" << "Licence: GNU 3.0\n";
 cout << "Verze: 0.2\n" << "Novinky od verze 0.1: Elektronegativita, opraveni chyb\nDalsi: viz. prekladac ptp.exe -> vlastnosti\n";
 cout << "Jej";
-cout << "bruh;";
+cout << "bruh;ff";
 }
