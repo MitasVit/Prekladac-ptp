@@ -1,0 +1,189 @@
+if(perioda == 1){
+        if(sloupec == 1){
+            cout << "\nPismeno: H";
+        }else if(sloupec == 2){
+            cout << "\nPismeno: He";
+        }else{
+        cout << "\nNeplatne cislo";
+        system("CLS");
+        prekladani_pismena();
+        }
+    }if(perioda == 2){
+        if(sloupec == 1){
+            cout << "\nPismeno: Li";
+        }else if(sloupec == 2){
+            cout << "\nPismeno: Be";
+        }else if(sloupec == 3){
+            cout << "\nPismeno: B";
+        }else if(sloupec == 4){
+            cout << "\nPismeno: C";
+        }else if(sloupec == 5){
+            cout << "\nPismeno: N";
+        }else if(sloupec == 6){
+            cout << "\nPismeno: O";
+        }else if(sloupec == 7){
+            cout << "\nPismeno: F";
+        }else if(sloupec == 8){
+            cout << "\nPismeno: Ne";
+        }else {
+            cout << "\nNeplatne cislo";
+            system("CLS");
+            prekladani_pismena();
+        }}if(perioda == 3){
+        if(sloupec == 1){
+            cout << "\nPismeno: Na";
+        }else if(sloupec == 2){
+            cout << "\nPismeno: Mg";
+        }else if(sloupec == 3){
+            cout << "\nPismeno: Al";
+        }else if(sloupec == 4){
+            cout << "\nPismeno: Si";
+        }else if(sloupec == 5){
+            cout << "\nPismeno: P";
+        }else if(sloupec == 6){
+            cout << "\nPismeno: S";
+        }else if(sloupec == 7){
+            cout << "\nPismeno: Cl";
+        }else if(sloupec == 8){
+            cout << "\nPismeno: Ar";
+        }else{
+            cout << "\nNeplatne cislo";
+            system("CLS");
+            prekladani_pismena();
+        }}if(perioda == 4){
+        if(sloupec == 1){
+            cout << "\nPismeno: K";
+        }else if(sloupec == 2){
+            cout << "\nPismeno: Ca";
+        }else if(sloupec == 3){
+            cout << "\nPismeno: Sc";
+        }else if(sloupec == 4){
+            cout << "\nPismeno: Ti";
+        }else if(sloupec == 5){
+            cout << "\nPismeno: V";
+        }else if(sloupec == 6){
+            cout << "\nPismeno: Cr";
+        }else if(sloupec == 7){
+            cout << "\nPismeno: Mn";
+        }else if(sloupec == 8){
+            cout << "\nPismeno: Fe";
+        }else if(sloupec == 9){
+            cout << "\nPismeno: Co";
+        }else if(sloupec == 10){
+            cout << "\nPismeno: Ni";
+        }else if(sloupec == 11){
+            cout << "\nPismeno: Cu";
+        }else if(sloupec == 12){
+            cout << "\nPismeno: Zn";
+        }else if(sloupec == 13){
+            cout << "\nPismeno: Ga";
+        }else if(sloupec == 14){
+            cout << "\nPismeno: Ge";
+        }else if(sloupec == 15){
+            cout << "\nPismeno: As";
+        }else if(sloupec == 16){
+            cout << "\nPismeno: Se";
+        }else if(sloupec == 17){
+            cout << "\nPismeno: Br";
+        }else if(sloupec == 18){
+            cout << "\nPismeno: Kr";
+        }
+    }if(perioda == 5){
+        if(sloupec == 1){
+            cout << "\nPismeno: Rb";
+        }else if(sloupec == 2){
+            cout << "\nPismeno: Sr";
+        }else if(sloupec == 3){
+            cout << "\nPismeno: Y";
+        }else if(sloupec == 4){
+            cout << "\nPismeno: Zr";
+        }else if(sloupec == 5){
+            cout << "\nPismeno: Nb";
+        }else if(sloupec == 6){
+            cout << "\nPismeno: Mo";
+        }else if(sloupec == 7){
+            cout << "\nPismeno: Tc";
+        }else if(sloupec == 8){
+            cout << "\nPismeno: Ru";
+        }else if(sloupec == 9){
+            cout << "\nPismeno: Rh";
+        }else if(sloupec == 10){
+            cout << "\nPismeno: Pd";
+        }else if(sloupec == 11){
+            cout << "\nPismeno: Ag";
+        }else if(sloupec == 12){
+            cout << "\nPismeno: Cd";
+        }else if(sloupec == 13){
+            cout << "\nPismeno: In";
+        }else if(sloupec == 14){
+            cout << "\nPismeno: Sn";
+        }else if(sloupec == 15){
+            cout << "\nPismeno: Sb";
+        }else if(sloupec == 16){
+            cout << "\nPismeno: Te";
+        }else if(sloupec == 17){
+            cout << "\nPismeno: I";
+        }else if(sloupec == 18){
+            cout << "\nPismeno: Xe";
+        }
+    }if(perioda == 6){
+        if(sloupec == 1){
+            cout << "\nPismeno: Cs";
+        }else if(sloupec == 2){
+            cout << "\nPismeno: Ba";
+        }else if(sloupec == 3){
+            cout << "\nPismeno: Lu";
+        }else if(sloupec == 4){
+            cout << "\nPismeno: Hf";
+        }else if(sloupec == 5){
+            cout << "\nPismeno: Ta";
+        }else if(sloupec == 6){
+            cout << "\nPismeno: W";
+        }else if(sloupec == 7){
+            cout << "\nPismeno: Re";
+        }else if(sloupec == 8){
+            cout << "\nPismeno: Os";
+        }else if(sloupec == 9){
+            cout << "\nPismeno: Ir";
+        }else if(sloupec == 10){
+            cout << "\nPismeno: Pt";
+        }else if(sloupec == 11){
+            cout << "\nPismeno: Au";
+        }else if(sloupec == 12){
+            cout << "\nPismeno: Hg";
+        }else if(sloupec == 13){
+            cout << "\nPismeno: Tl";
+        }else if(sloupec == 14){
+            cout << "\nPismeno: Pp";
+        }else if(sloupec == 15){
+            cout << "\nPismeno: Pi";
+        }else if(sloupec == 16){
+            cout << "\nPismeno: Po";
+        }else if(sloupec == 17){
+            cout << "\nPismeno: Ht";
+        }else if(sloupec == 18){
+            cout << "\nPismeno: Rn";
+        }
+    }if(perioda == 7){
+        if(sloupec == 1){
+            cout << "\nPismeno: Fr";
+        }else if(sloupec == 2){
+            cout << "\nPismeno: Ra";
+        }else if(sloupec == 3){
+            cout << "\nPismeno: Lr";
+        }else if(sloupec == 4){
+            cout << "\nPismeno: Rf";
+        }else if(sloupec == 5){
+            cout << "\nPismeno: Db";
+        }else if(sloupec == 6){
+            cout << "\nPismeno: Sg";
+        }else if(sloupec == 7){
+            cout << "\nPismeno: Bh";
+        }else if(sloupec == 8){
+            cout << "\nPismeno: Hs";
+        }else {
+            cout << "\nNeplatne cislo";
+            system("cls");
+            prekladani_pismena();
+        }
+    }

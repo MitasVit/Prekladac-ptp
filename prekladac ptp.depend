@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606896332 source:c:\users\uzivatel\desktop\vita-projecty\c++programuju\c++ 2,0\prekladac ptp\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	"PTP prvky.h"
+
+1606732392 source:c:\users\uzivatel\desktop\vita-projecty\c++programuju\c++ 2,0\prekladac ptp\resource.rc
+	<windows.h>
+	<commctrl.h>
+
+1606896377 c:\users\uzivatel\desktop\vita-projecty\c++programuju\c++ 2,0\prekladac ptp\ptp prvky.h
+
